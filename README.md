@@ -1,8 +1,4 @@
-Hi there! I'm Mohan Karki, a dedicated IT professional serving in the US Air Force - Air National Guard, Intelligence Wing - Communication Squadron. 
-With expertise in Network Security, Network Management, and Vulnerability Management, I'm passionate about protecting and strengthening 
-digital defenses. My skills in PowerShell scripting enable me to automate and streamline processes, driving efficiency and effectiveness.
-As I continue to expand my knowledge and skills in Cybersecurity, I'm excited to tackle new challenges and contribute to the development of 
-innovative security solutions. On this GitHub profile, I'll be sharing projects that showcase my skills, from network security configurations 
-to vulnerability assessments and automation scripts. I'm looking forward to collaborating with like-minded professionals, learning from the
-community, and staying up-to-date on the latest cybersecurity trends and best practices. Welcome to my GitHub hub!
+Hi there! I'm Mohan Karki, a dedicated IT professional with hands-on experience securing mission-critical enterprise environments and managing large-scale, highly regulated network infrastructures. With expertise in Network Security, Network Management, and Vulnerability Management, I'm passionate about protecting and strengthening digital defenses. My skills in PowerShell scripting enable me to automate workflows, streamline compliance, and drive operational efficiency. As I continue to expand my cybersecurity knowledge, I'm excited to tackle complex technical challenges and develop innovative security solutions. On this profile, I share projects ranging from network security configurations and vulnerability assessments to custom automation tools. I look forward to collaborating, learning from the tech community, and staying ahead of emerging security trends. Welcome to my GitHub!
+
+Welcome to my GitHub hub!
   
