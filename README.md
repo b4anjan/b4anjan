@@ -1,4 +1,1 @@
-Hi there! I'm Mohan Karki, a dedicated IT professional with hands-on experience securing mission-critical enterprise environments and managing large-scale, highly regulated network infrastructures. With expertise in Network Security, Network Management, and Vulnerability Management, I'm passionate about protecting and strengthening digital defenses. My skills in PowerShell scripting enable me to automate workflows, streamline compliance, and drive operational efficiency. As I continue to expand my cybersecurity knowledge, I'm excited to tackle complex technical challenges and develop innovative security solutions. On this profile, I share projects ranging from network security configurations and vulnerability assessments to custom automation tools. I look forward to collaborating, learning from the tech community, and staying ahead of emerging security trends. Welcome to my GitHub!
-
-Welcome to my GitHub hub!
-  
+Hi there! Welcome to my GitHub hub!!
